@@ -9,12 +9,12 @@ To see the shortest path, click on any two blue dots. The black line that appear
 
 ![selecting path](https://github.com/reycuba0918/Fastest-way-around-FIU/assets/156565222/9924c0ea-f67e-4de3-87f4-1713e8fa5c37)
 
-## When two buildings are already selected, What happens when you click on an unselected point?
-When two points are selected, if a point that isn't selected gets clicked, the shortest path between the first point selected and the newly selected point gets shown.
-
-![selecting other points](https://github.com/reycuba0918/Fastest-way-around-FIU/assets/156565222/912c00f2-2cfb-4d07-8a67-20324d8ab84e)
-
 ## How to deselect selected buildings?
 You can deselect a point by clicking on the selected point.
 
 ![deselecting buildings](https://github.com/reycuba0918/Fastest-way-around-FIU/assets/156565222/13acf1ef-4ab4-4794-9eee-244d01f98e68)
+
+## When two buildings are already selected, What happens when you click on an unselected point?
+When two points are selected, if a point that isn't selected gets clicked, the shortest path between the first point selected and the newly selected point gets shown.
+
+![selecting other points](https://github.com/reycuba0918/Fastest-way-around-FIU/assets/156565222/912c00f2-2cfb-4d07-8a67-20324d8ab84e)
