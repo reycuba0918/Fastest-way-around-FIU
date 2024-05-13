@@ -1,5 +1,5 @@
 # Fastest way around FIU
-This project aims to build a UI map that uses an implication of Dijkstra's algorithm to display the shortest path between two buildings on the FIU MMC campus. Note that this project can be repurposed for other sets of buildings if the position and paths between the buildings are known.
+This project consists of a map GUI that uses an implication of Dijkstra's algorithm to calculate the shortest path between two buildings in the FIU MMC campus. Note that this project can be repurposed for other sets of buildings if the position and paths between the buildings are known.
 
 ## How to initiate the UI?
 To initiate the UI, run the file `Fastest way around FIU.jar`
